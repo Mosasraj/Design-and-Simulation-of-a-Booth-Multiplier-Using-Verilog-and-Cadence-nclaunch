@@ -169,7 +169,8 @@ endmodule
 
 ## Simulation Results
 
-![Screenshot 2025-05-21 163243](https://github.com/user-attachments/assets/e7e22fcd-2e89-478a-9ccf-321bf9d6a07c)
+![WhatsApp Image 2026-03-09 at 8 38 20 AM](https://github.com/user-attachments/assets/d35ee697-9c79-4427-8529-29dc168fd50d)
+
 
 
 ## Results
